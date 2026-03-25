@@ -1,0 +1,32 @@
+body {
+	font-family: Verdana;
+	font-size: 13px;
+	color: #3D3D3D;
+	padding: 10px 0px 0px 40px;
+	text-align: left;
+	background-image: url("../img/paper3.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	line-height: 20px;
+}
+
+#nome{
+	font-variant: small-caps;
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: 900;
+	text-align: 2px 2px 3px gray;
+}
+
+.perfil {
+	width: 200px;
+	float: right;
+	margin-left: 60px;
+}
+
+.redes {
+	width: 50px;
+}
